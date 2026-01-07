@@ -1,4 +1,4 @@
-<h1 style="textalign: center;">Docker</h1>
+<h1 align="center">Docker</h1>
 <h2>Introduction</h2>
 This repository should serve as a guide for me and anyone willing to learn how dockers actually works, a repository which i will keep updating with more advanced stuff, both theorical documentation and practical examples such as containers i create myself.
 
