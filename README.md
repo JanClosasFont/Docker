@@ -21,6 +21,17 @@ Installing Docker Desktop (which is recommended for a better experience) is as s
 I will not further develop this section unless i find any complementary process which requires installation for Docker.
 
 <h2>Commands</h2>
+When running containers, we need to know or have noted down a couple necesary commands, which will be listed below:
+- Docker run.- Execute containers
+- Docker ps.- Lists existing containers
+- Docker images.- Lists images
+- Docker pull.- Download image
+- Docker start.- Start or run a container
+- Docker stop.- Stop or power down a running container
+- Docker restart.- Reboot a container
+- Docker rm.- Delete (remove)
+
+The current section will be updated on the future, constantly adding more basic and useful commands that i learn about. (12/01/2026)
 
 <h2>First dockerfile</h2>
 
