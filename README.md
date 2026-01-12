@@ -15,10 +15,10 @@ At last, we just need to know how to obtain these two inngredients. A Dockerfile
 
 All these actions can be interpreted via command line, both in the CMD system (Windows, Linux...) or through the one in Docker Desktop.
 
-<h2>instalation process</h2>
+<h2>installation process</h2>
 Installing Docker Desktop (which is recommended for a better experience) is as simple as following the installation guide shown when executing the .exe downloaded from https://www.docker.com .
 
-I will not further develop this section unless i find any complementary process which requires installation for Docker.
+<br> I will not further develop this section unless i find any complementary process which requires installation for Docker.
 
 <h2>Commands</h2>
 When running containers, we need to know or have noted down a couple necesary commands, which will be listed below:
