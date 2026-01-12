@@ -2,7 +2,7 @@
 <h2>Introduction</h2>
 This repository should serve as a guide for me and anyone willing to learn how dockers actually works, a repository which i will keep updating with more advanced stuff, both theorical documentation and practical examples such as containers i create myself. 
 
-I created this repository as inspiration from THM (TryHackMe), a web page with a full load of activities and challenges for any technician out there hopping to learn about cybersecurity and more.
+<br> I created this repository as inspiration from THM (TryHackMe), a web page with a full load of activities and challenges for any technician out there hopping to learn about cybersecurity and more.
 
 <h2>basic concepts</h2>
 Docker is used to execute code and create an accesible link via any port, being really useful to host any code with only the necesary resources. Although it is quite useful to include Docker in your personal or educational projects, it can sometimes be a little confusing to use, that is why before any practical example i am gonna explain some basic concepts to, at least, understand at first what we are working on.
