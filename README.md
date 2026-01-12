@@ -21,7 +21,7 @@ Installing Docker Desktop (which is recommended for a better experience) is as s
 <br> I will not further develop this section unless i find any complementary process which requires installation for Docker.
 
 <h2>Commands</h2>
-When running containers, we need to know or have noted down a couple necesary commands, which will be listed below:
+When running containers, we need to know or have noted down on paper/doc a couple necessary commands, which will be listed below:
 <ul>
   <li>Docker run.- Execute containers</li>
   <li>Docker ps.- Lists existing containers</li>
